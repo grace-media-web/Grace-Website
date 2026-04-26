@@ -433,7 +433,7 @@ const Footer = () => {
             © 2026 GRACE MINISTRIES INDIA. ALL RIGHTS RESERVED.
           </p>
           <p className="text-[10px] text-ink/40 uppercase tracking-widest">
-            DESIGNED WITH GRACE
+            DESIGNED AND MAINTAINED BY GRACE MINISTRIES
           </p>
         </div>
       </div>
