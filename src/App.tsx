@@ -414,8 +414,8 @@ const Footer = () => {
             <div>
               <h4 className="font-bold uppercase tracking-widest text-[10px] mb-6 text-ink/40">Social</h4>
               <ul className="space-y-3 text-sm flex flex-col">
-                <a href="#" className="flex items-center gap-2 hover:text-primary"><Instagram className="w-4 h-4" /> Instagram</a>
-                <a href="#" className="flex items-center gap-2 hover:text-primary"><Facebook className="w-4 h-4" /> Facebook</a>
+                <a href="https://www.instagram.com/porselvan_asir" className="flex items-center gap-2 hover:text-primary"><Instagram className="w-4 h-4" /> Instagram</a>
+                <a href="https://www.facebook.com/porselvanasir" className="flex items-center gap-2 hover:text-primary"><Facebook className="w-4 h-4" /> Facebook</a>
               </ul>
             </div>
             <div>
